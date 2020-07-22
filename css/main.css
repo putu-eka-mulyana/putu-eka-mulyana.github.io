@@ -1,0 +1,9 @@
+.my-responsive-img {
+    max-height: 300px;
+    width: auto;
+}
+.container-fluid{
+    margin: 0 auto;
+    max-width: 1280px;
+    width: 90%;
+}
